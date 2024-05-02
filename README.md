@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 25-04-2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,12 +31,15 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![input 4](https://github.com/hemalokithaperumal/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144925008/d7e7175d-c249-49f2-8c11-017b43fa4dd8)
+
 
 ### Output:
 
+![output 4](https://github.com/hemalokithaperumal/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144925008/2686553e-1005-45e2-95c2-677c388732c3)
 
-### Name:
-### Register Number:
+### Name:HEMA LOKITHA P
+### Register Number: 212223110014
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
