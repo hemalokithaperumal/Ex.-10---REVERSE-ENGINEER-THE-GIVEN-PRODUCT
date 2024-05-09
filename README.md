@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![input 4](https://github.com/hemalokithaperumal/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144925008/d7e7175d-c249-49f2-8c11-017b43fa4dd8)
+
+![reverse input](https://github.com/hemalokithaperumal/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144925008/a8b5ff0c-68b7-416a-8e20-596f450c253a)
 
 
 ### Output:
+![reverse output](https://github.com/hemalokithaperumal/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144925008/561bf473-7fd3-47b6-9c3e-19bd4ee38e61)
 
-![output 4](https://github.com/hemalokithaperumal/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144925008/2686553e-1005-45e2-95c2-677c388732c3)
 
 ### Name:HEMA LOKITHA P
 ### Register Number: 212223110014
